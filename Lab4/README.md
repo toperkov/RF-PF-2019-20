@@ -1,4 +1,4 @@
-# Lab 5 - Steganografija i Metapodaci
+# Lab 4 - Steganografija i Metapodaci
 
 U slopu današnje vježbe upoznat ćemo se sa pojmom *Steganografija*, vidjet ćemo sto je to *Metadata* kod podataka pohranjenih na računalu te na koji način nam podaci o podacima mogu pomoći prilikom forenzične istrage.
 
