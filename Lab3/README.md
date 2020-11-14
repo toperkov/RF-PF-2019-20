@@ -1,4 +1,4 @@
-# Lab 3 - Restauracija izbrisanih odataka, kreiranje slike medija
+# Lab 3 - Restauracija izbrisanih podataka, kreiranje slike medija
 
 U sklopu ove vježbe student će se upoznati sa postupcima kojima se mogu restaurirati naizgled izbrisani podaci na medija za pohranu. Vidjet ćemo nakon toga koji se komercijalni i dostupni alati koriste za kreiranje slike medija za pohranu, odnosno dokaznog materijala. Na kraju ćemo se dotaknuti i programa koji se upotrebljavaju za sigurno brisanje medija.
 
