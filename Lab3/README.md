@@ -6,7 +6,7 @@ U sklopu ove vježbe student će se upoznati sa postupcima kojima se mogu restau
 
 ### FTK Imager
 
-U sklopu ove laboratorijske vježbe ćemo kreirati forenzičnu kopiju diska korištenjem programa `FTK Imager` kojeg možete skinuti sa sljedećeg linka: https://bit.ly/2qD7RXZ. Izrada forenzične kopije diska predstavlja prvi korak u svakoj istrazi te je kritična za ukupan uspjeh forenzične istrage. FTK Imager je alat koji se upotrebljava za izradu slike diska upotrebom jednostavnog GUI-a. Bez ispravne kopije diska, bilo koja daljnja istraga može doći u pitanje. Nakon instalacije programa pokretanjem programa se otvara prozor koji je prikazan na slici dolje. Da bismo
+U sklopu ove laboratorijske vježbe ćemo kreirati forenzičnu kopiju diska korištenjem programa `FTK Imager` kojeg možete skinuti sa sljedećeg linka: https://bit.ly/3stClz9. Izrada forenzične kopije diska predstavlja prvi korak u svakoj istrazi te je kritična za ukupan uspjeh forenzične istrage. FTK Imager je alat koji se upotrebljava za izradu slike diska upotrebom jednostavnog GUI-a. Bez ispravne kopije diska, bilo koja daljnja istraga može doći u pitanje. Nakon instalacije programa pokretanjem programa se otvara prozor koji je prikazan na slici dolje. Da bismo
 kreirali sliku diska kliknemo na *File* i označimo *Create Disk Image*.
 
 <p align="center">
