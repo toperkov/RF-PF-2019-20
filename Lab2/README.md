@@ -6,12 +6,11 @@ U sklopu ove vježbe student će se upoznati sa radom hash funkcija kao i sa hex
 
 Cilj ove vježbe je razumijeti da datoteke imaju jedinstvena zaglavlja na osnovu tipa datoteke. Pokazat ćemo kako datoteke ne trebaju imati ekstenziju za koje se trenutno prikazuju. Veoma bitno je kod računalne forenzike dtektirati datateke koje imaju primijenjenu ekstenziju, jer one mogu ukazivati na potencijalno skrivanje informacije.
 
-- Skinite na vaše računalo te instalirajte `Winhex` program:
-http://www.winhex.com/winhex/hex-editor.html
+- Pristupite online alatu `hexed` za hex editiranje datoteka: https://hexed.it/
 
 - Iz direktorija [Download](Download) sačuvajte datoteku Lab2_download_1.zip te je raspakirajte.
 
-- Svaku datoteku pojedinačno otvorite u `Winhex` editoru
+- Svaku datoteku pojedinačno otvorite u `hexed` editoru
 
 - Korištenjem tablice potpisa datoteka pokušajte saznati o kojim tipovima datoteka se radi: http://en.wikipedia.org/wiki/List_of_file_signatures
 
